@@ -1,0 +1,319 @@
+# Translation of Plugins - Variation Swatches for WooCommerce - Stable (latest release) in Spanish (Colombia)
+# This file is distributed under the same license as the Plugins - Variation Swatches for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-17 10:53:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CO\n"
+"Project-Id-Version: Plugins - Variation Swatches for WooCommerce - Stable (latest release)\n"
+
+#: includes/class-woo-variation-swatches-settings.php:33
+msgid "Variation Swatches for WooCommerce Settings"
+msgstr "Ajustes de Variation Swatches for WooCommerce"
+
+#: includes/class-woo-variation-swatches-settings.php:611
+msgid "Variation label separator"
+msgstr "Separador de la etiqueta de la variación"
+
+#. translators: %s: default separator :
+#: includes/class-woo-variation-swatches-settings.php:613
+msgid "Variation label separator. Default: %s."
+msgstr "Separador de la etiqueta de la variación. Por defecto: %s."
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:53
+msgid "Send feedback &amp; Deactivate"
+msgstr "Enviar los comentarios y desactivar"
+
+#: includes/getwooplugins/html/settings-page.php:86
+msgid "Reset all"
+msgstr "Restablecer todo"
+
+#: includes/class-woo-variation-swatches-settings.php:602
+msgid "Show selected attribute"
+msgstr "Mostrar el atributo seleccionado"
+
+#: includes/class-woo-variation-swatches-settings.php:353
+msgid "Enable tooltip on each product attribute."
+msgstr "Activa la información emergente en cada atributo del producto."
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:18
+msgid "QUICK FEEDBACK"
+msgstr "RESPUESTA RÁPIDA"
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:20
+#: includes/getwooplugins/html/dialog.php:22
+msgid "Close modal panel"
+msgstr "Cerrar el panel emergente"
+
+#. Plugin Name of the plugin
+#: woo-variation-swatches.php includes/html-product-settings-panel.php:60
+#: includes/html-settings-sidebar.php:29
+msgid "Variation Swatches for WooCommerce"
+msgstr "Variation Swatches for WooCommerce"
+
+#: woo-variation-swatches.php:65
+msgid "<strong>Variation Swatches for WooCommerce</strong> is an add-on of "
+msgstr "<strong>Variation Swatches for WooCommerce</strong> es una extensión de "
+
+#: includes/class-woo-variation-swatches-export-import.php:131
+msgid "Swatches Attributes"
+msgstr "Atributos de las muestras"
+
+#. translators: %s: image URL
+#: includes/class-woo-variation-swatches-export-import.php:253
+msgid "Not able to attach \"%s\"."
+msgstr "No se puede adjuntar «%s»."
+
+#. translators: %s: image URL
+#: includes/class-woo-variation-swatches-export-import.php:262
+msgid "Unable to use image \"%s\"."
+msgstr "No se puede utilizar la imagen «%s»."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:75
+msgid "I need someone to <strong>setup this plugin.</strong>"
+msgstr "Necesito a alguien para <strong>configurar este plugin.</strong> "
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:76
+msgid "Your email address."
+msgstr "Tu dirección de correo electrónico."
+
+#: includes/html-settings-tutorial.php:107
+#: includes/html-settings-tutorial.php:145
+#: includes/html-settings-tutorial.php:156
+#: includes/html-settings-tutorial.php:195
+#: includes/html-settings-tutorial.php:206
+#: includes/html-settings-tutorial.php:244
+#: includes/html-settings-tutorial.php:255
+#: includes/html-settings-tutorial.php:293
+#: includes/html-settings-tutorial.php:304
+#: includes/html-settings-tutorial.php:342
+#: includes/html-settings-tutorial.php:353
+#: includes/html-settings-tutorial.php:391
+#: includes/html-settings-tutorial.php:402
+#: includes/html-settings-tutorial.php:469
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:26
+msgid "May we have a little info about why you are deactivating?"
+msgstr "¿Podrías darnos algo de información sobre por qué lo estás desactivando?"
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:53
+msgid "Deactivating..."
+msgstr "Desactivando..."
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:57
+msgid "Skip &amp; Deactivate"
+msgstr "Omitir y desactivar"
+
+#: includes/html-settings-tutorial.php:6
+msgid "How to tutorials"
+msgstr "Tutoriales de uso"
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:48
+msgid "It's a temporary deactivation."
+msgstr "Es una desactivación temporal."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:53
+msgid "I couldn't understand how to make it work."
+msgstr "No he podido entender cómo hacerlo funcionar."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:69
+msgid "The plugin <strong>broke my layout</strong> or some functionality."
+msgstr "El plugin <strong>ha roto mi diseño</strong> o alguna funcionalidad."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:71
+msgid "<a target=\"_blank\" href=\"https://getwooplugins.com/tickets/\">Please open a support ticket</a>, we will fix it immediately."
+msgstr "<a target=\"_blank\" href=\"https://getwooplugins.com/tickets/\">Por favor, abre un tique de soporte</a>, lo corregiremos de inmediato."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:82
+msgid "The plugin is <strong>too complicated to configure.</strong>"
+msgstr "El plugin es <strong>demasiado complicado de configurar.</strong>"
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:84
+msgid "<a target=\"_blank\" href=\"https://getwooplugins.com/documentation/woocommerce-variation-swatches/\">Have you checked our documentation?</a>."
+msgstr "<a target=\"_blank\" href=\"https://getwooplugins.com/documentation/woocommerce-variation-swatches/\">¿Has revisado nuestra documentación?</a>."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:89
+msgid "Please share with us."
+msgstr "Por favor, compártelo con nosotros."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:94
+msgid "Other"
+msgstr "Otra"
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:95
+msgid "Please share the reason"
+msgstr "Por favor, comparte el motivo"
+
+#: includes/class-woo-variation-swatches-settings.php:459
+msgid "Blur with cross"
+msgstr "Desenfoque con cruz"
+
+#: includes/class-woo-variation-swatches-settings.php:460
+msgid "Blur without cross"
+msgstr "Desenfoque sin cruz"
+
+#: includes/class-woo-variation-swatches-settings.php:689
+msgid "Advanced change some visual styles on shop / archive page"
+msgstr "Cambio avanzado de algunos estilos visuales en la página de la tienda/archivo"
+
+#: includes/class-woo-variation-swatches-settings.php:788
+msgid "Catalog mode"
+msgstr "Modo de catálogo"
+
+#: includes/class-woo-variation-swatches-settings.php:300
+msgid "Archive / Shop"
+msgstr "Archivo/tienda"
+
+#: includes/class-woo-variation-swatches-settings.php:568
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: includes/class-woo-variation-swatches-settings.php:538
+msgid "Width"
+msgstr "Anchura"
+
+#: includes/class-woo-variation-swatches-settings.php:553
+msgid "Height"
+msgstr "Altura"
+
+#: includes/class-woo-variation-swatches-backend.php:132
+msgid "Go Pro"
+msgstr "Ir a Pro"
+
+#: includes/class-woo-variation-swatches-settings.php:461
+msgid "Hide"
+msgstr "Ocultar"
+
+#: includes/html-settings-sidebar.php:17
+msgid "Facing issue?"
+msgstr "¿Te estás encontrando problemas?"
+
+#: includes/class-woo-variation-swatches-settings.php:688
+msgid "Visual Section"
+msgstr "Sección visual"
+
+#: includes/class-woo-variation-swatches-settings.php:297
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: includes/class-woo-variation-swatches-settings.php:426
+msgid "Clear on Reselect"
+msgstr "Vaciar al volver a seleccionar"
+
+#: includes/class-woo-variation-swatches-settings.php:471
+msgid "Attribute image size"
+msgstr "Tamaño de la imagen del atributo"
+
+#: includes/class-woo-variation-swatches-backend.php:222
+msgid "Add Attribute"
+msgstr "Añadir un atributo"
+
+#: includes/class-woo-variation-swatches-backend.php:223
+msgid "Add"
+msgstr "Añadir"
+
+#: includes/class-woo-variation-swatches-backend.php:224
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/class-woo-variation-swatches-settings.php:352
+msgid "Enable Tooltip"
+msgstr "Activar la información emergente"
+
+#: includes/class-woo-variation-swatches-settings.php:344
+msgid "Enable Stylesheet"
+msgstr "Activar la hoja de estilo"
+
+#: includes/class-woo-variation-swatches-product-edit-panel.php:31
+#: includes/class-woo-variation-swatches-settings.php:29
+msgid "Swatches Settings"
+msgstr "Ajuste de muestras"
+
+#: includes/class-woo-variation-swatches-backend.php:127
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/class-woo-variation-swatches-settings.php:366
+msgid "Rounded Shape"
+msgstr "Forma redondeada"
+
+#: includes/class-woo-variation-swatches-settings.php:367
+msgid "Squared Shape"
+msgstr "Forma cuadrada"
+
+#: includes/class-woo-variation-swatches-term-meta.php:405
+msgid "Upload / Add image"
+msgstr "Subir/añadir una imagen"
+
+#: includes/class-woo-variation-swatches-term-meta.php:411
+msgid "Remove image"
+msgstr "Eliminar la imagen"
+
+#: includes/class-woo-variation-swatches-backend.php:241
+#: includes/class-woo-variation-swatches-backend.php:300
+msgid "Color"
+msgstr "Color"
+
+#: includes/class-woo-variation-swatches-backend.php:242
+#: includes/class-woo-variation-swatches-backend.php:309
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/class-woo-variation-swatches-backend.php:243
+msgid "Button"
+msgstr "Botón"
+
+#: includes/class-woo-variation-swatches-backend.php:301
+msgid "Choose a color"
+msgstr "Elige un color"
+
+#: includes/class-woo-variation-swatches-backend.php:221
+#: includes/class-woo-variation-swatches-backend.php:310
+msgid "Choose an Image"
+msgstr "Elegir una imagen"
+
+#: includes/class-woo-variation-swatches-backend.php:182
+msgid "Select all"
+msgstr "Seleccionar todos"
+
+#: includes/class-woo-variation-swatches-backend.php:183
+msgid "Select none"
+msgstr "No seleccionar ninguno"
+
+#: includes/class-woo-variation-swatches-product-page.php:821
+#: includes/class-woo-variation-swatches-product-page.php:847
+msgid "Choose an option"
+msgstr "Elige una opción"
+
+#: includes/class-woo-variation-swatches-backend.php:225
+msgid "Use Image"
+msgstr "Usar una imagen"
+
+#: includes/class-woo-variation-swatches-backend.php:226
+msgid "Add Media"
+msgstr "Añadir medios"
+
+#: woo-variation-swatches.php:67
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Author of the plugin
+#: woo-variation-swatches.php
+msgid "Emran Ahmed"
+msgstr "Emran Ahmed"
+
+#. Author URI of the plugin
+#: woo-variation-swatches.php
+msgid "https://getwooplugins.com/"
+msgstr "https://getwooplugins.com/"
+
+#. Plugin URI of the plugin
+#: woo-variation-swatches.php
+msgid "https://wordpress.org/plugins/woo-variation-swatches/"
+msgstr "https://es-co.wordpress.org/plugins/woo-variation-swatches/"

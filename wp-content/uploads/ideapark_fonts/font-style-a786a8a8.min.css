@@ -1,0 +1,129 @@
+@font-face {
+	font-family: "icons"; 
+src: url("icons/icons.eot?v=1732322828");
+src:url("icons/icons.eot?v=1732322828#iefix") format("embedded-opentype"),
+url("icons/icons.woff?v=1732322828") format("woff2"),
+url("icons/icons.woff?v=1732322828") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+i[class^="fi-bd21"], [class*=" fi-bd21"] {
+	display: inline-block;
+	
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family: "icons";
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 1;
+	speak: none;
+}
+
+
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-24_7:before {
+    content: "\f101";
+}
+.icon-cashback:before {
+    content: "\f102";
+}
+.icon-catalog:before {
+    content: "\f103";
+}
+.icon-crown:before {
+    content: "\f104";
+}
+.icon-hamburger:before {
+    content: "\f105";
+}
+.icon-map-pin:before {
+    content: "\f106";
+}
+.icon-money_back:before {
+    content: "\f107";
+}
+.icon-natural:before {
+    content: "\f108";
+}
+.icon-paper-plane:before {
+    content: "\f109";
+}
+.icon-phone:before {
+    content: "\f10a";
+}
+.icon-ship:before {
+    content: "\f10b";
+}
+.icon-subscribe:before {
+    content: "\f10c";
+}
+.icon-time:before {
+    content: "\f10d";
+}
+
+.fi-bd21-24_7:before {
+content: "\F101";
+}
+
+.fi-bd21-cashback:before {
+content: "\F102";
+}
+
+.fi-bd21-catalog:before {
+content: "\F103";
+}
+
+.fi-bd21-crown:before {
+content: "\F104";
+}
+
+.fi-bd21-hamburger:before {
+content: "\F105";
+}
+
+.fi-bd21-map-pin:before {
+content: "\F106";
+}
+
+.fi-bd21-money_back:before {
+content: "\F107";
+}
+
+.fi-bd21-natural:before {
+content: "\F108";
+}
+
+.fi-bd21-paper-plane:before {
+content: "\F109";
+}
+
+.fi-bd21-phone:before {
+content: "\F10A";
+}
+
+.fi-bd21-ship:before {
+content: "\F10B";
+}
+
+.fi-bd21-subscribe:before {
+content: "\F10C";
+}
+
+.fi-bd21-time:before {
+content: "\F10D";
+}

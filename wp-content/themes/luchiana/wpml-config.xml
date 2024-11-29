@@ -1,0 +1,28 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">html_block</custom-type>
+	</custom-types>
+	<admin-texts>
+        <key name="theme_mods_luchiana">
+			<key name="header_phone" />
+			<key name="header_email" />
+			<key name="header_address" />
+			<key name="header_hours" />
+			<key name="header_other" />
+			<key name="product_header" />
+			<key name="footer_copyright" />
+			<key name="store_notice_button_text" />
+            <key name="product_grid_load_more_text" />
+			<key name="description_tab_header" />
+			<key name="additional_information_tab_header" />
+			<key name="outofstock_badge_text" />
+			<key name="featured_badge_text" />
+			<key name="sale_badge_text" />
+			<key name="new_badge_text" />
+			<key name="related_product_header" />
+			<key name="upsells_product_header" />
+			<key name="cross_sells_product_header" />
+			<key name="recently_product_header" />
+		</key>
+	</admin-texts>
+</wpml-config>

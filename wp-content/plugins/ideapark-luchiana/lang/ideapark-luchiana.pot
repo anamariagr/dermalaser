@@ -1,0 +1,2569 @@
+# Copyright (C) 2024 Luchiana Core
+# This file is distributed under the same license as the Luchiana Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Luchiana Core 5.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ideapark-"
+"luchiana\n"
+"POT-Creation-Date: 2024-11-17 14:34:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: elementor/accordion.php:45
+msgid "Luchiana Accordion"
+msgstr ""
+
+#: elementor/accordion.php:102
+msgid "Accordion Items"
+msgstr ""
+
+#: elementor/accordion.php:111 elementor/categories-inline.php:131
+#: elementor/circle-text.php:114 elementor/gift.php:126
+#: elementor/heading.php:105 elementor/heading.php:112
+#: elementor/icon-list-1.php:111 elementor/image-list-1.php:129
+#: elementor/pricing.php:129 elementor/product-tabs.php:113
+#: elementor/running-line.php:116 elementor/services.php:129
+#: elementor/slider.php:148 elementor/tabs.php:110
+#: widgets/wc-color-filter-widget.php:73
+msgid "Title"
+msgstr ""
+
+#: elementor/accordion.php:114 elementor/gift.php:129
+#: elementor/icon-list-1.php:115 elementor/instagram.php:79
+#: elementor/product-tabs.php:117 elementor/product-tabs.php:221
+#: elementor/running-line.php:120 elementor/slider.php:150
+#: elementor/slider.php:174 elementor/tabs.php:114
+msgid "Enter title"
+msgstr ""
+
+#: elementor/accordion.php:124 elementor/before-after.php:107
+#: elementor/page-header.php:56 elementor/tabs.php:135
+msgid "Content"
+msgstr ""
+
+#: elementor/accordion.php:138 elementor/gift.php:201
+msgid "Title #1"
+msgstr ""
+
+#: elementor/accordion.php:139 elementor/accordion.php:143
+#: elementor/accordion.php:147 elementor/gift.php:202 elementor/gift.php:206
+#: elementor/gift.php:210 elementor/icon-list-1.php:129
+#: elementor/icon-list-1.php:173 elementor/icon-list-1.php:179
+#: elementor/icon-list-1.php:185 elementor/reviews.php:139
+#: elementor/reviews.php:156 elementor/reviews.php:160
+#: elementor/reviews.php:164 elementor/slider.php:160
+msgid ""
+"Click edit button to change this text. Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit."
+msgstr ""
+
+#: elementor/accordion.php:142 elementor/gift.php:205
+msgid "Title #2"
+msgstr ""
+
+#: elementor/accordion.php:146 elementor/gift.php:209
+msgid "Title #3"
+msgstr ""
+
+#: elementor/accordion.php:159 elementor/before-after.php:166
+#: elementor/button.php:109 elementor/categories-inline.php:163
+#: elementor/countdown.php:145 elementor/gift.php:222 elementor/heading.php:162
+#: elementor/icon-list-1.php:199 elementor/image-list-1.php:162
+#: elementor/image-list-2.php:171 elementor/inline-menu.php:131
+#: elementor/reviews.php:177 elementor/services.php:184
+#: elementor/social.php:106 elementor/team.php:354 elementor/video.php:127
+#: elementor/woocommerce-carousel.php:136 elementor/woocommerce-grid.php:136
+msgid "Widget Settings"
+msgstr ""
+
+#: elementor/accordion.php:167 elementor/brand-list.php:132
+#: elementor/image-list-1.php:170 elementor/image-list-2.php:179
+#: elementor/instagram.php:63 elementor/slider.php:258 elementor/team.php:362
+msgid "Layout"
+msgstr ""
+
+#: elementor/accordion.php:171 elementor/instagram.php:67
+#: elementor/team.php:366
+msgid "Layout 1"
+msgstr ""
+
+#: elementor/accordion.php:172 elementor/instagram.php:68
+#: elementor/team.php:367
+msgid "Layout 2"
+msgstr ""
+
+#: elementor/accordion.php:180 elementor/banners.php:187 elementor/team.php:388
+msgid "Text color"
+msgstr ""
+
+#: elementor/banners.php:48 elementor/banners.php:105
+msgid "Banners"
+msgstr ""
+
+#: elementor/banners.php:114
+msgid "Choose image"
+msgstr ""
+
+#: elementor/banners.php:128
+msgid "Subheader"
+msgstr ""
+
+#: elementor/banners.php:131
+msgid "Enter banner subheader"
+msgstr ""
+
+#: elementor/banners.php:140 elementor/banners.php:142
+msgid "Header"
+msgstr ""
+
+#: elementor/banners.php:143
+msgid "Enter banner header"
+msgstr ""
+
+#: elementor/banners.php:151 elementor/gift.php:165
+#: elementor/icon-list-1.php:232 elementor/product-tabs.php:218
+#: elementor/services.php:151 elementor/slider.php:171
+msgid "Button text"
+msgstr ""
+
+#: elementor/banners.php:152 elementor/icon-list-1.php:233
+msgid "Leave empty for a link to the entire block"
+msgstr ""
+
+#: elementor/banners.php:155 elementor/gift.php:169 elementor/gift.php:189
+#: elementor/icon-list-1.php:236 elementor/services.php:154
+#: elementor/slider.php:140
+msgid "Enter text"
+msgstr ""
+
+#: elementor/banners.php:156
+msgid "Explore"
+msgstr ""
+
+#: elementor/banners.php:163 elementor/button.php:75
+#: elementor/categories-inline.php:141 elementor/circle-text.php:124
+#: elementor/gift.php:176 elementor/heading.php:125
+#: elementor/icon-list-1.php:154 elementor/image-list-1.php:140
+#: elementor/image-list-2.php:148 elementor/pricing.php:162
+#: elementor/running-line.php:144 elementor/services.php:162
+#: elementor/team.php:179 elementor/wrapper-link-module.php:55
+msgid "Link"
+msgstr ""
+
+#: elementor/banners.php:166 elementor/button.php:80
+#: elementor/categories-inline.php:144 elementor/gift.php:179
+#: elementor/icon-list-1.php:160 elementor/image-list-1.php:143
+#: elementor/image-list-2.php:151 elementor/instagram.php:96
+#: elementor/mega-menu.php:121 elementor/pricing.php:165
+#: elementor/running-line.php:150 elementor/services.php:165
+#: elementor/social.php:67 elementor/team.php:182 elementor/team.php:201
+#: elementor/team.php:211 elementor/team.php:221 elementor/team.php:231
+#: elementor/team.php:241 elementor/team.php:251 elementor/team.php:261
+#: elementor/team.php:271 elementor/team.php:281 elementor/team.php:291
+#: elementor/team.php:301 elementor/team.php:311 elementor/team.php:321
+#: elementor/wrapper-link-module.php:62
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/banners.php:173 elementor/team.php:400
+msgid "Background color"
+msgstr ""
+
+#: elementor/banners.php:214
+msgid "Banners Settings"
+msgstr ""
+
+#: elementor/banners.php:222
+msgid "Header font size"
+msgstr ""
+
+#: elementor/banners.php:245 elementor/slider.php:271
+msgid "Max width of the text block"
+msgstr ""
+
+#: elementor/banners.php:269
+msgid "Min banner height"
+msgstr ""
+
+#: elementor/banners.php:289
+msgid "Vertical Align"
+msgstr ""
+
+#: elementor/banners.php:293 elementor/banners.php:329 elementor/button.php:121
+#: elementor/circle-text.php:320 elementor/circle-text.php:338
+#: elementor/circle-text.php:358 elementor/heading.php:174
+#: elementor/mega-menu.php:135 elementor/product-tabs.php:248
+#: elementor/product-tabs.php:309 elementor/reviews.php:226
+#: elementor/slider.php:198 elementor/slider.php:345
+#: elementor/woocommerce-carousel.php:192 elementor/woocommerce-grid.php:192
+msgid "Default"
+msgstr ""
+
+#: elementor/banners.php:294 elementor/slider.php:326
+msgid "Middle"
+msgstr ""
+
+#: elementor/banners.php:302
+msgid "Horizontal Align"
+msgstr ""
+
+#: elementor/banners.php:306 elementor/button.php:134
+#: elementor/circle-text.php:185 elementor/countdown.php:192
+#: elementor/heading.php:203 elementor/heading.php:280
+#: elementor/inline-menu.php:180 elementor/reviews.php:277
+#: elementor/slider.php:299 elementor/social.php:187 elementor/video.php:152
+#: elementor/woocommerce-grid.php:230
+msgid "Left"
+msgstr ""
+
+#: elementor/banners.php:310 elementor/button.php:138
+#: elementor/circle-text.php:189 elementor/countdown.php:196
+#: elementor/heading.php:207 elementor/heading.php:284
+#: elementor/inline-menu.php:184 elementor/reviews.php:281
+#: elementor/slider.php:303 elementor/social.php:191 elementor/video.php:156
+#: elementor/woocommerce-grid.php:234
+msgid "Center"
+msgstr ""
+
+#: elementor/banners.php:314 elementor/button.php:142
+#: elementor/circle-text.php:193 elementor/countdown.php:200
+#: elementor/heading.php:211 elementor/heading.php:288
+#: elementor/inline-menu.php:188 elementor/reviews.php:285
+#: elementor/slider.php:307 elementor/social.php:195 elementor/video.php:160
+#: elementor/woocommerce-grid.php:238
+msgid "Right"
+msgstr ""
+
+#: elementor/banners.php:325 elementor/product-tabs.php:244
+#: elementor/slider.php:194
+msgid "Button type"
+msgstr ""
+
+#: elementor/banners.php:330 elementor/button.php:122
+#: elementor/product-tabs.php:249 elementor/slider.php:199
+msgid "Outline"
+msgstr ""
+
+#: elementor/banners.php:338 elementor/product-tabs.php:179
+#: elementor/slider.php:409 elementor/video-carousel.php:176
+#: elementor/woocommerce-carousel.php:149 elementor/woocommerce-grid.php:149
+msgid "Random sorting"
+msgstr ""
+
+#: elementor/banners.php:341 elementor/gift.php:246 elementor/gift.php:311
+#: elementor/gift.php:325 elementor/image-list-2.php:210
+#: elementor/page-header.php:75 elementor/product-tabs.php:140
+#: elementor/product-tabs.php:385 elementor/product-tabs.php:399
+#: elementor/product-tabs.php:413 elementor/reviews.php:265
+#: elementor/slider.php:358 elementor/slider.php:412 elementor/slider.php:423
+#: elementor/team.php:428 elementor/team.php:493 elementor/team.php:508
+#: elementor/woocommerce-carousel.php:205
+#: elementor/woocommerce-carousel.php:277
+#: elementor/woocommerce-carousel.php:289 elementor/wrapper-link-module.php:45
+#: elementor/wrapper-link-module.php:75
+#: includes/meta-box-group/group-field.php:66
+msgid "Yes"
+msgstr ""
+
+#: elementor/banners.php:342 elementor/gift.php:247 elementor/gift.php:312
+#: elementor/gift.php:326 elementor/image-list-2.php:211
+#: elementor/page-header.php:76 elementor/product-tabs.php:141
+#: elementor/product-tabs.php:386 elementor/product-tabs.php:400
+#: elementor/product-tabs.php:414 elementor/reviews.php:266
+#: elementor/slider.php:359 elementor/slider.php:413 elementor/slider.php:424
+#: elementor/team.php:429 elementor/team.php:494 elementor/team.php:509
+#: elementor/woocommerce-carousel.php:206
+#: elementor/woocommerce-carousel.php:278
+#: elementor/woocommerce-carousel.php:290 elementor/wrapper-link-module.php:46
+#: elementor/wrapper-link-module.php:76
+#: includes/meta-box-group/group-field.php:67
+msgid "No"
+msgstr ""
+
+#: elementor/banners.php:350 elementor/gift.php:322
+#: elementor/image-list-2.php:207 elementor/product-tabs.php:410
+#: elementor/reviews.php:262 elementor/slider.php:355 elementor/team.php:505
+#: elementor/woocommerce-carousel.php:286
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/banners.php:354
+msgid "Disabled"
+msgstr ""
+
+#: elementor/banners.php:355 elementor/slider.php:346
+msgid "Fade"
+msgstr ""
+
+#: elementor/banners.php:356 elementor/slider.php:347
+msgid "Fade and Scale"
+msgstr ""
+
+#: elementor/banners.php:357
+msgid "Slide Up"
+msgstr ""
+
+#: elementor/banners.php:365 elementor/gift.php:336
+#: elementor/image-list-2.php:221 elementor/product-tabs.php:424
+#: elementor/slider.php:366 elementor/team.php:519
+#: elementor/woocommerce-carousel.php:297
+msgid "Autoplay Timeout (sec)"
+msgstr ""
+
+#: elementor/before-after.php:50
+msgid "Before | After"
+msgstr ""
+
+#: elementor/before-after.php:114
+msgid "Image (Before)"
+msgstr ""
+
+#: elementor/before-after.php:129
+msgid "Title (Before)"
+msgstr ""
+
+#: elementor/before-after.php:139
+msgid "Image (After)"
+msgstr ""
+
+#: elementor/before-after.php:154
+msgid "Title (After)"
+msgstr ""
+
+#: elementor/before-after.php:175 elementor/button.php:174
+#: elementor/categories-inline.php:186 elementor/circle-text.php:207
+#: elementor/countdown.php:153 elementor/heading.php:238
+#: elementor/icon-list-1.php:220 elementor/image-list-1.php:209
+#: elementor/inline-menu.php:218 elementor/running-line.php:216
+#: elementor/video-carousel.php:195
+msgid "Text Color"
+msgstr ""
+
+#: elementor/before-after.php:176 elementor/categories-inline.php:187
+#: elementor/categories-inline.php:200 elementor/image-list-1.php:210
+#: elementor/image-list-1.php:223 elementor/video-carousel.php:196
+msgid "Select color or leave empty for display default."
+msgstr ""
+
+#: elementor/before-after.php:196
+msgid "Aspect Ratio"
+msgstr ""
+
+#: elementor/before-after.php:220
+msgid "Max Width"
+msgstr ""
+
+#: elementor/brand-list.php:48
+msgid "Brand List"
+msgstr ""
+
+#: elementor/brand-list.php:104
+msgid "Brand List Setting"
+msgstr ""
+
+#: elementor/brand-list.php:136
+msgid "Logos"
+msgstr ""
+
+#: elementor/brand-list.php:137
+msgid "Alphabetically"
+msgstr ""
+
+#: elementor/brand-list.php:147
+msgid "Enable archives for brand attribute"
+msgstr ""
+
+#: elementor/brand-list.php:157
+msgid "Set up brands to activate the widget"
+msgstr ""
+
+#: elementor/button.php:23
+msgid "Luchiana Button"
+msgstr ""
+
+#: elementor/button.php:58
+msgid "Button"
+msgstr ""
+
+#: elementor/button.php:65
+msgid "Text"
+msgstr ""
+
+#: elementor/button.php:67 elementor/button.php:68
+msgid "Click here"
+msgstr ""
+
+#: elementor/button.php:90
+msgid "Button ID"
+msgstr ""
+
+#: elementor/button.php:96
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: elementor/button.php:98
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
+"without spaces."
+msgstr ""
+
+#: elementor/button.php:117 elementor/gift.php:230
+#: elementor/product-tabs.php:127 elementor/product-tabs.php:292
+#: elementor/team.php:375 elementor/woocommerce-carousel.php:111
+#: elementor/woocommerce-grid.php:111
+msgid "Type"
+msgstr ""
+
+#: elementor/button.php:130 elementor/circle-text.php:181
+#: elementor/countdown.php:188 elementor/heading.php:199
+#: elementor/inline-menu.php:176 elementor/reviews.php:273
+#: elementor/social.php:183 elementor/video.php:148
+#: elementor/woocommerce-grid.php:226
+msgid "Alignment"
+msgstr ""
+
+#: elementor/button.php:146 elementor/heading.php:215
+#: elementor/inline-menu.php:192 elementor/social.php:199
+msgid "Justified"
+msgstr ""
+
+#: elementor/button.php:159 elementor/circle-text.php:219
+#: elementor/slider.php:207
+msgid "Background Color"
+msgstr ""
+
+#: elementor/button.php:188 elementor/reviews.php:199
+msgid "Color"
+msgstr ""
+
+#: elementor/button.php:203 elementor/icon-list-1.php:140
+#: elementor/running-line.php:130 ideapark-luchiana.php:280
+msgid "Icon"
+msgstr ""
+
+#: elementor/button.php:212
+msgid "Icon Position"
+msgstr ""
+
+#: elementor/button.php:216 elementor/heading.php:190
+msgid "Before"
+msgstr ""
+
+#: elementor/button.php:217 elementor/heading.php:191
+msgid "After"
+msgstr ""
+
+#: elementor/button.php:228 elementor/heading.php:229
+msgid "View"
+msgstr ""
+
+#: elementor/categories-inline.php:50
+msgid "Categories inline"
+msgstr ""
+
+#: elementor/categories-inline.php:107
+msgid "Category List"
+msgstr ""
+
+#: elementor/categories-inline.php:116 elementor/gift.php:112
+#: elementor/image-list-1.php:114 elementor/image-list-2.php:114
+#: elementor/pricing.php:114 elementor/services.php:114
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:74
+msgid "Choose Image"
+msgstr ""
+
+#: elementor/categories-inline.php:133
+msgid "This is the title"
+msgstr ""
+
+#: elementor/categories-inline.php:172 elementor/inline-menu.php:139
+msgid "Separator"
+msgstr ""
+
+#: elementor/categories-inline.php:199 elementor/image-list-1.php:222
+msgid "Text Color on Hover"
+msgstr ""
+
+#: elementor/categories-inline.php:221
+msgid "Space between separator and text"
+msgstr ""
+
+#: elementor/categories-inline.php:244
+msgid "Image style"
+msgstr ""
+
+#: elementor/categories-inline.php:248
+msgid "Round"
+msgstr ""
+
+#: elementor/categories-inline.php:249
+msgid "Square"
+msgstr ""
+
+#: elementor/categories-inline.php:250
+msgid "Original"
+msgstr ""
+
+#: elementor/categories-inline.php:258
+msgid "Image Width"
+msgstr ""
+
+#: elementor/categories-inline.php:281
+msgid "Separator size"
+msgstr ""
+
+#: elementor/circle-text.php:48 elementor/circle-text.php:107
+msgid "Circle Text"
+msgstr ""
+
+#: elementor/circle-text.php:116 elementor/heading.php:114
+#: elementor/image-list-1.php:132 elementor/pricing.php:132
+#: elementor/services.php:132
+msgid "Enter your title"
+msgstr ""
+
+#: elementor/circle-text.php:117
+msgid "Add Your Text Here"
+msgstr ""
+
+#: elementor/circle-text.php:134
+msgid "Circle Text Settings"
+msgstr ""
+
+#: elementor/circle-text.php:142 elementor/circle-text.php:286
+#: elementor/heading.php:170
+msgid "Size"
+msgstr ""
+
+#: elementor/circle-text.php:160 elementor/running-line.php:185
+msgid "Animation Duration (sec)"
+msgstr ""
+
+#: elementor/circle-text.php:231
+msgid "Padding"
+msgstr ""
+
+#: elementor/circle-text.php:251
+msgid "Typography"
+msgstr ""
+
+#: elementor/circle-text.php:273
+msgid "Family"
+msgstr ""
+
+#: elementor/circle-text.php:307
+msgid "Weight"
+msgstr ""
+
+#: elementor/circle-text.php:311
+msgid "(Thin)"
+msgstr ""
+
+#: elementor/circle-text.php:312
+msgid "(Extra Light)"
+msgstr ""
+
+#: elementor/circle-text.php:313
+msgid "(Light)"
+msgstr ""
+
+#: elementor/circle-text.php:314
+msgid "(Normal)"
+msgstr ""
+
+#: elementor/circle-text.php:315
+msgid "(Medium)"
+msgstr ""
+
+#: elementor/circle-text.php:316
+msgid "(Semi Bold)"
+msgstr ""
+
+#: elementor/circle-text.php:317
+msgid "(Bold)"
+msgstr ""
+
+#: elementor/circle-text.php:318
+msgid "(Extra Bold)"
+msgstr ""
+
+#: elementor/circle-text.php:319
+msgid "(Black)"
+msgstr ""
+
+#: elementor/circle-text.php:321 elementor/circle-text.php:342
+#: elementor/circle-text.php:359 elementor/heading.php:330
+#: elementor/inline-menu.php:262
+msgid "Normal"
+msgstr ""
+
+#: elementor/circle-text.php:322
+msgid "Bold"
+msgstr ""
+
+#: elementor/circle-text.php:334
+msgid "Transform"
+msgstr ""
+
+#: elementor/circle-text.php:339
+msgid "Uppercase"
+msgstr ""
+
+#: elementor/circle-text.php:340
+msgid "Lowercase"
+msgstr ""
+
+#: elementor/circle-text.php:341
+msgid "Capitalize"
+msgstr ""
+
+#: elementor/circle-text.php:354 elementor/running-line.php:208
+msgid "Style"
+msgstr ""
+
+#: elementor/circle-text.php:360
+msgid "Italic"
+msgstr ""
+
+#: elementor/circle-text.php:361
+msgid "Oblique"
+msgstr ""
+
+#: elementor/circle-text.php:373
+msgid "Letter Spacing"
+msgstr ""
+
+#: elementor/circle-text.php:397
+msgid "Word Spacing"
+msgstr ""
+
+#: elementor/countdown.php:44
+msgid "Luchiana Countdown"
+msgstr ""
+
+#: elementor/countdown.php:103
+msgid "Countdown"
+msgstr ""
+
+#: elementor/countdown.php:110
+msgid "Event date"
+msgstr ""
+
+#: elementor/countdown.php:119
+msgid "Show weeks"
+msgstr ""
+
+#: elementor/countdown.php:121 elementor/countdown.php:133
+#: elementor/gift.php:297 elementor/image-list-1.php:186
+#: elementor/image-list-2.php:196 elementor/news-carousel.php:175
+#: elementor/product-tabs.php:371 elementor/reviews.php:214
+#: elementor/reviews.php:243 elementor/reviews.php:254
+#: elementor/services.php:195 elementor/slider.php:390 elementor/slider.php:401
+#: elementor/team.php:479 elementor/video-carousel.php:213
+#: elementor/video-carousel.php:224 elementor/woocommerce-carousel.php:266
+msgid "Show"
+msgstr ""
+
+#: elementor/countdown.php:122 elementor/countdown.php:134
+#: elementor/gift.php:283 elementor/gift.php:298 elementor/heading.php:189
+#: elementor/image-list-1.php:187 elementor/image-list-2.php:197
+#: elementor/news-carousel.php:147 elementor/news-carousel.php:176
+#: elementor/product-tabs.php:340 elementor/product-tabs.php:372
+#: elementor/reviews.php:215 elementor/reviews.php:244
+#: elementor/reviews.php:255 elementor/services.php:196
+#: elementor/slider.php:391 elementor/slider.php:402 elementor/team.php:465
+#: elementor/team.php:480 elementor/video-carousel.php:214
+#: elementor/video-carousel.php:225 elementor/woocommerce-carousel.php:238
+#: elementor/woocommerce-carousel.php:267
+msgid "Hide"
+msgstr ""
+
+#: elementor/countdown.php:131
+msgid "Show months"
+msgstr ""
+
+#: elementor/countdown.php:164 elementor/woocommerce-grid.php:202
+msgid "Margins"
+msgstr ""
+
+#: elementor/countdown.php:242
+msgid "Months"
+msgstr ""
+
+#: elementor/countdown.php:243
+msgid "Weeks"
+msgstr ""
+
+#: elementor/countdown.php:244
+msgid "Days"
+msgstr ""
+
+#: elementor/countdown.php:245
+msgid "Hours"
+msgstr ""
+
+#: elementor/countdown.php:246
+msgid "Minutes"
+msgstr ""
+
+#: elementor/countdown.php:247
+msgid "Seconds"
+msgstr ""
+
+#: elementor/elementor.php:134
+msgid "Luchiana Widgets"
+msgstr ""
+
+#: elementor/elementor.php:273 elementor/elementor.php:278
+#: includes/class-ideapark.php:346 includes/class-ideapark.php:351
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: elementor/gift.php:46 elementor/gift.php:103
+msgid "Gift Certificates"
+msgstr ""
+
+#: elementor/gift.php:136 elementor/icon-list-1.php:125
+#: elementor/pricing.php:140 elementor/services.php:140
+#: elementor/slider.php:158 elementor/team.php:149 ideapark-luchiana.php:296
+msgid "Description"
+msgstr ""
+
+#: elementor/gift.php:145 elementor/pricing.php:151
+msgid "Price"
+msgstr ""
+
+#: elementor/gift.php:148
+msgid "Enter price"
+msgstr ""
+
+#: elementor/gift.php:155
+msgid "Discount price"
+msgstr ""
+
+#: elementor/gift.php:158
+msgid "Enter discount price"
+msgstr ""
+
+#: elementor/gift.php:168
+msgid "Buy now"
+msgstr ""
+
+#: elementor/gift.php:186
+msgid "Badge text"
+msgstr ""
+
+#: elementor/gift.php:234 elementor/image-list-1.php:174
+#: elementor/image-list-2.php:183 elementor/product-tabs.php:296
+#: elementor/team.php:379
+msgid "Grid"
+msgstr ""
+
+#: elementor/gift.php:235 elementor/image-list-1.php:175
+#: elementor/image-list-2.php:184 elementor/product-tabs.php:297
+#: elementor/team.php:380 elementor/video-carousel.php:107
+msgid "Carousel"
+msgstr ""
+
+#: elementor/gift.php:243 elementor/product-tabs.php:382 elementor/team.php:425
+#: elementor/woocommerce-carousel.php:202
+msgid "Auto width"
+msgstr ""
+
+#: elementor/gift.php:257 elementor/team.php:439
+#: elementor/woocommerce-carousel.php:213
+msgid "Viewed items"
+msgstr ""
+
+#: elementor/gift.php:276 elementor/image-list-1.php:183
+#: elementor/image-list-2.php:193 elementor/news-carousel.php:140
+#: elementor/product-tabs.php:333 elementor/reviews.php:211
+#: elementor/reviews.php:222 elementor/slider.php:387 elementor/team.php:458
+#: elementor/video-carousel.php:210 elementor/woocommerce-carousel.php:231
+msgid "Arrows"
+msgstr ""
+
+#: elementor/gift.php:280 elementor/news-carousel.php:144
+#: elementor/product-tabs.php:337 elementor/reviews.php:227
+#: elementor/team.php:462 elementor/woocommerce-carousel.php:235
+msgid "Dark"
+msgstr ""
+
+#: elementor/gift.php:281 elementor/news-carousel.php:145
+#: elementor/product-tabs.php:338 elementor/reviews.php:228
+#: elementor/team.php:463 elementor/woocommerce-carousel.php:236
+msgid "Light"
+msgstr ""
+
+#: elementor/gift.php:282 elementor/news-carousel.php:146
+#: elementor/product-tabs.php:339 elementor/reviews.php:229
+#: elementor/team.php:464 elementor/woocommerce-carousel.php:237
+msgid "White"
+msgstr ""
+
+#: elementor/gift.php:294 elementor/news-carousel.php:172
+#: elementor/product-tabs.php:368 elementor/reviews.php:240
+#: elementor/slider.php:398 elementor/team.php:476
+#: elementor/video-carousel.php:221 elementor/woocommerce-carousel.php:263
+msgid "Navigation dots"
+msgstr ""
+
+#: elementor/gift.php:308 elementor/product-tabs.php:396 elementor/team.php:490
+#: elementor/woocommerce-carousel.php:274
+msgid "Enable Loop"
+msgstr ""
+
+#: elementor/heading.php:46
+msgid "Luchiana Heading"
+msgstr ""
+
+#: elementor/heading.php:115
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: elementor/heading.php:140
+msgid "HTML Tag"
+msgstr ""
+
+#: elementor/heading.php:175
+msgid "Small"
+msgstr ""
+
+#: elementor/heading.php:176
+msgid "Medium"
+msgstr ""
+
+#: elementor/heading.php:177 elementor/product-tabs.php:310
+#: elementor/woocommerce-carousel.php:193 elementor/woocommerce-grid.php:193
+msgid "Large"
+msgstr ""
+
+#: elementor/heading.php:185
+msgid "Divider"
+msgstr ""
+
+#: elementor/heading.php:251
+msgid "Max width"
+msgstr ""
+
+#: elementor/heading.php:276
+msgid "Block alignment"
+msgstr ""
+
+#: elementor/heading.php:299
+msgid "Starting Number"
+msgstr ""
+
+#: elementor/heading.php:327 elementor/inline-menu.php:259
+msgid "Blend Mode"
+msgstr ""
+
+#: elementor/icon-list-1.php:46 elementor/icon-list-1.php:102
+msgid "Icon List"
+msgstr ""
+
+#: elementor/icon-list-1.php:114 elementor/running-line.php:119
+#: elementor/tabs.php:113
+msgid "List Item"
+msgstr ""
+
+#: elementor/icon-list-1.php:130
+msgid "Enter short description"
+msgstr ""
+
+#: elementor/icon-list-1.php:172 elementor/running-line.php:162
+msgid "List Item #1"
+msgstr ""
+
+#: elementor/icon-list-1.php:178 elementor/running-line.php:167
+msgid "List Item #2"
+msgstr ""
+
+#: elementor/icon-list-1.php:184 elementor/running-line.php:172
+msgid "List Item #3"
+msgstr ""
+
+#: elementor/icon-list-1.php:207
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/icon-list-1.php:237 elementor/services.php:152
+#: elementor/slider.php:172
+msgid "Read more"
+msgstr ""
+
+#: elementor/image-list-1.php:48 elementor/image-list-1.php:105
+#: elementor/image-list-2.php:105
+msgid "Image List"
+msgstr ""
+
+#: elementor/image-list-1.php:131 elementor/pricing.php:131
+#: elementor/services.php:131
+msgid "This is the heading"
+msgstr ""
+
+#: elementor/image-list-1.php:197
+msgid "Icon Background Color"
+msgstr ""
+
+#: elementor/image-list-1.php:235
+msgid "Font size"
+msgstr ""
+
+#: elementor/image-list-1.php:258
+msgid "Space between icon and text"
+msgstr ""
+
+#: elementor/image-list-1.php:281
+msgid "Item Width"
+msgstr ""
+
+#: elementor/image-list-2.php:48
+msgid "Logo List"
+msgstr ""
+
+#: elementor/image-list-2.php:128
+msgid "Image width"
+msgstr ""
+
+#: elementor/image-list-2.php:185
+msgid "Grid on Desktop / Carousel on Tablet and Mobile"
+msgstr ""
+
+#: elementor/image-list-2.php:243
+msgid "Space between items"
+msgstr ""
+
+#: elementor/image-list-2.php:269
+msgid "On blur opacity"
+msgstr ""
+
+#: elementor/inline-menu.php:47 elementor/inline-menu.php:103
+msgid "Inline Menu"
+msgstr ""
+
+#: elementor/inline-menu.php:108
+msgid "— Select —"
+msgstr ""
+
+#: elementor/inline-menu.php:119
+msgid "Select Menu"
+msgstr ""
+
+#: elementor/inline-menu.php:140
+msgid "Dot if nothing is selected"
+msgstr ""
+
+#: elementor/inline-menu.php:150 elementor/social.php:159
+msgid "Space"
+msgstr ""
+
+#: elementor/inline-menu.php:206
+msgid "Separator Color"
+msgstr ""
+
+#: elementor/inline-menu.php:231
+msgid "Text and Icon Color on Hover"
+msgstr ""
+
+#: elementor/instagram.php:23
+msgid "Instagram Photo Gallery"
+msgstr ""
+
+#: elementor/instagram.php:56 ideapark-luchiana.php:238
+msgid "Image Gallery"
+msgstr ""
+
+#: elementor/instagram.php:76
+msgid "Account Title"
+msgstr ""
+
+#: elementor/instagram.php:90
+msgid "Account Link"
+msgstr ""
+
+#: elementor/instagram.php:103
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:75
+msgid "Add Images"
+msgstr ""
+
+#: elementor/instagram.php:145
+msgid "Instagram"
+msgstr ""
+
+#: elementor/mega-menu.php:44 elementor/mega-menu.php:100
+msgid "Mega Menu Block"
+msgstr ""
+
+#: elementor/mega-menu.php:107
+msgid "Menu Title"
+msgstr ""
+
+#: elementor/mega-menu.php:110
+msgid "Enter menu title"
+msgstr ""
+
+#: elementor/mega-menu.php:118
+msgid "Title Link"
+msgstr ""
+
+#: elementor/mega-menu.php:131
+msgid "Menu Type"
+msgstr ""
+
+#: elementor/mega-menu.php:136
+msgid "Product subcategories"
+msgstr ""
+
+#: elementor/mega-menu.php:137
+msgid "Product attribute terms"
+msgstr ""
+
+#: elementor/mega-menu.php:143
+msgid "Select menu"
+msgstr ""
+
+#: elementor/mega-menu.php:154
+msgid "Menu"
+msgstr ""
+
+#: elementor/mega-menu.php:165
+msgid "Select parent category"
+msgstr ""
+
+#: elementor/mega-menu.php:166 elementor/video-carousel.php:112
+msgid "Shop"
+msgstr ""
+
+#: elementor/mega-menu.php:207 elementor/video-carousel.php:151
+msgid "Product Category"
+msgstr ""
+
+#: elementor/mega-menu.php:218
+msgid "Select attribute"
+msgstr ""
+
+#: elementor/mega-menu.php:237
+msgid "Product Attribute"
+msgstr ""
+
+#: elementor/news-carousel.php:50
+msgid "News Carousel"
+msgstr ""
+
+#: elementor/news-carousel.php:106 elementor/news-grid.php:106
+msgid "News"
+msgstr ""
+
+#: elementor/news-carousel.php:113 elementor/news-grid.php:113
+msgid "News count"
+msgstr ""
+
+#: elementor/news-carousel.php:121 elementor/news-grid.php:121
+msgid "All"
+msgstr ""
+
+#: elementor/news-carousel.php:130 elementor/news-grid.php:130
+msgid "Category"
+msgstr ""
+
+#: elementor/news-carousel.php:155 elementor/product-tabs.php:351
+#: elementor/woocommerce-carousel.php:246
+msgid "Arrows placement"
+msgstr ""
+
+#: elementor/news-carousel.php:159 elementor/product-tabs.php:355
+#: elementor/woocommerce-carousel.php:250
+msgid "Outside"
+msgstr ""
+
+#: elementor/news-carousel.php:160 elementor/product-tabs.php:356
+#: elementor/woocommerce-carousel.php:251
+msgid "On border"
+msgstr ""
+
+#: elementor/news-grid.php:50
+msgid "News Grid"
+msgstr ""
+
+#: elementor/news-grid.php:192
+msgid "Read More"
+msgstr ""
+
+#: elementor/page-header.php:23
+msgid "Page Header"
+msgstr ""
+
+#: elementor/page-header.php:63
+msgid "Custom Title"
+msgstr ""
+
+#: elementor/page-header.php:65
+msgid "Type your title text here"
+msgstr ""
+
+#: elementor/page-header.php:72
+msgid "Hide breadcrumbs"
+msgstr ""
+
+#: elementor/page-header.php:84
+msgid "Global height, color and background settings"
+msgstr ""
+
+#: elementor/page-header.php:86 elementor/page-header.php:96
+msgid "Manage"
+msgstr ""
+
+#: elementor/page-header.php:94
+msgid "Page custom height, color and background settings"
+msgstr ""
+
+#: elementor/pricing.php:48
+msgid "Luchiana Price List"
+msgstr ""
+
+#: elementor/pricing.php:105
+msgid "Pricing"
+msgstr ""
+
+#: elementor/pricing.php:142 elementor/services.php:142
+msgid "This is the description"
+msgstr ""
+
+#: elementor/pricing.php:143 elementor/services.php:143
+msgid "Enter your description"
+msgstr ""
+
+#: elementor/pricing.php:153
+msgid "$00.00"
+msgstr ""
+
+#: elementor/pricing.php:154
+msgid "Enter your price"
+msgstr ""
+
+#: elementor/product-tabs.php:47 elementor/product-tabs.php:104
+msgid "Product Tabs"
+msgstr ""
+
+#: elementor/product-tabs.php:116
+msgid "Tab Title"
+msgstr ""
+
+#: elementor/product-tabs.php:137
+msgid "On Sale"
+msgstr ""
+
+#: elementor/product-tabs.php:160 elementor/woocommerce-carousel.php:121
+#: elementor/woocommerce-grid.php:121
+msgid "Enter Woocommerce shortcode"
+msgstr ""
+
+#: elementor/product-tabs.php:174 elementor/video-carousel.php:172
+#: elementor/woocommerce-carousel.php:144 elementor/woocommerce-grid.php:144
+msgid "Sort"
+msgstr ""
+
+#: elementor/product-tabs.php:178 elementor/woocommerce-carousel.php:148
+#: elementor/woocommerce-grid.php:148
+msgid "Default sorting"
+msgstr ""
+
+#: elementor/product-tabs.php:180 elementor/video-carousel.php:177
+#: elementor/woocommerce-carousel.php:150 elementor/woocommerce-grid.php:150
+msgid "Sort by date the product was published"
+msgstr ""
+
+#: elementor/product-tabs.php:181 elementor/woocommerce-carousel.php:151
+#: elementor/woocommerce-grid.php:151
+msgid "Sort by post ID of the product"
+msgstr ""
+
+#: elementor/product-tabs.php:182 elementor/woocommerce-carousel.php:152
+#: elementor/woocommerce-grid.php:152
+msgid "Sort by menu order"
+msgstr ""
+
+#: elementor/product-tabs.php:183 elementor/woocommerce-carousel.php:153
+#: elementor/woocommerce-grid.php:153
+msgid "Sort by number of purchases"
+msgstr ""
+
+#: elementor/product-tabs.php:184 elementor/woocommerce-carousel.php:154
+#: elementor/woocommerce-grid.php:154
+msgid "Sort by average product rating"
+msgstr ""
+
+#: elementor/product-tabs.php:185 elementor/woocommerce-carousel.php:155
+#: elementor/woocommerce-grid.php:155
+msgid "Sort by product title"
+msgstr ""
+
+#: elementor/product-tabs.php:199 elementor/woocommerce-carousel.php:163
+#: elementor/woocommerce-grid.php:163
+msgid "Order"
+msgstr ""
+
+#: elementor/product-tabs.php:229 elementor/slider.php:182
+msgid "Button link"
+msgstr ""
+
+#: elementor/product-tabs.php:272
+msgid "Tabs Settings"
+msgstr ""
+
+#: elementor/product-tabs.php:280
+msgid "Products in tab"
+msgstr ""
+
+#: elementor/product-tabs.php:305 elementor/woocommerce-carousel.php:188
+#: elementor/woocommerce-grid.php:188
+msgid "Product layout"
+msgstr ""
+
+#: elementor/product-tabs.php:311 elementor/woocommerce-carousel.php:194
+#: elementor/woocommerce-grid.php:194 importer/data_1/home-7.php:24
+msgid "Compact"
+msgstr ""
+
+#: elementor/product-tabs.php:319
+msgid "View more button layout"
+msgstr ""
+
+#: elementor/product-tabs.php:324
+msgid "As last product"
+msgstr ""
+
+#: elementor/product-tabs.php:325
+msgid "At the bottom of the products"
+msgstr ""
+
+#: elementor/product-tabs.php:600 elementor/woocommerce-carousel.php:398
+#: elementor/woocommerce-grid.php:321
+msgid "Recent Products"
+msgstr ""
+
+#: elementor/product-tabs.php:601 elementor/woocommerce-carousel.php:399
+#: elementor/woocommerce-grid.php:322
+msgid "Featured Products"
+msgstr ""
+
+#: elementor/product-tabs.php:602 elementor/woocommerce-carousel.php:400
+#: elementor/woocommerce-grid.php:323
+msgid "Sale Products"
+msgstr ""
+
+#: elementor/product-tabs.php:603 elementor/woocommerce-carousel.php:401
+#: elementor/woocommerce-grid.php:324
+msgid "Best-Selling Products"
+msgstr ""
+
+#: elementor/product-tabs.php:604 elementor/woocommerce-carousel.php:402
+#: elementor/woocommerce-grid.php:325
+msgid "Top Rated Products"
+msgstr ""
+
+#: elementor/product-tabs.php:608
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: elementor/product-tabs.php:611 elementor/woocommerce-carousel.php:403
+#: elementor/woocommerce-grid.php:326
+msgid "Custom Woocommerce Shortcode"
+msgstr ""
+
+#: elementor/reviews.php:50
+msgid "Reviews Carousel"
+msgstr ""
+
+#: elementor/reviews.php:106
+msgid "Reviews"
+msgstr ""
+
+#: elementor/reviews.php:115
+msgid "Avatar"
+msgstr ""
+
+#: elementor/reviews.php:127
+msgid "Reviewer name"
+msgstr ""
+
+#: elementor/reviews.php:129
+msgid "Enter name"
+msgstr ""
+
+#: elementor/reviews.php:137
+msgid "Review text"
+msgstr ""
+
+#: elementor/reviews.php:140
+msgid "Enter review text"
+msgstr ""
+
+#: elementor/reviews.php:155 elementor/team.php:333
+msgid "Name #1"
+msgstr ""
+
+#: elementor/reviews.php:159 elementor/team.php:337
+msgid "Name #2"
+msgstr ""
+
+#: elementor/reviews.php:163 elementor/team.php:341
+msgid "Name #3"
+msgstr ""
+
+#: elementor/reviews.php:185
+msgid "Items per row (Desktop)"
+msgstr ""
+
+#: elementor/reviews.php:189
+msgid "1 per row"
+msgstr ""
+
+#: elementor/reviews.php:190
+msgid "2 per row"
+msgstr ""
+
+#: elementor/reviews.php:191
+msgid "3 per row"
+msgstr ""
+
+#: elementor/reviews.php:251
+msgid "Avatars"
+msgstr ""
+
+#: elementor/reviews.php:299
+msgid "Items margin"
+msgstr ""
+
+#: elementor/reviews.php:318
+msgid "Max width of the review block"
+msgstr ""
+
+#: elementor/running-line.php:48
+msgid "Infinite Marquee"
+msgstr ""
+
+#: elementor/running-line.php:107
+msgid "Item List"
+msgstr ""
+
+#: elementor/running-line.php:228
+msgid "Gap between items"
+msgstr ""
+
+#: elementor/running-line.php:249
+msgid "Gap between icon and title"
+msgstr ""
+
+#: elementor/running-line.php:286
+msgid "Separator Font Size"
+msgstr ""
+
+#: elementor/services.php:48 elementor/services.php:105
+msgid "Services"
+msgstr ""
+
+#: elementor/services.php:192
+msgid "Grayscale hover filter"
+msgstr ""
+
+#: elementor/services.php:203
+msgid "Item Height"
+msgstr ""
+
+#: elementor/services.php:224
+msgid "Text Min Height"
+msgstr ""
+
+#: elementor/slider.php:50
+msgid "Slider Carousel"
+msgstr ""
+
+#: elementor/slider.php:107
+msgid "Slides"
+msgstr ""
+
+#: elementor/slider.php:116
+msgid "Image (Desktop)"
+msgstr ""
+
+#: elementor/slider.php:127
+msgid "Image (Mobile)"
+msgstr ""
+
+#: elementor/slider.php:138 elementor/slider.php:459
+msgid "Text above the title"
+msgstr ""
+
+#: elementor/slider.php:161
+msgid "Enter description"
+msgstr ""
+
+#: elementor/slider.php:220
+msgid "Custom Color"
+msgstr ""
+
+#: elementor/slider.php:250
+msgid "Slider Settings"
+msgstr ""
+
+#: elementor/slider.php:262
+msgid "Fullwidth"
+msgstr ""
+
+#: elementor/slider.php:263 importer/data_1/home-2.php:24
+msgid "Boxed"
+msgstr ""
+
+#: elementor/slider.php:295
+msgid "Text alignment"
+msgstr ""
+
+#: elementor/slider.php:318
+msgid "Vertical Alignment (mobile)"
+msgstr ""
+
+#: elementor/slider.php:322
+msgid "Top"
+msgstr ""
+
+#: elementor/slider.php:330
+msgid "Bottom"
+msgstr ""
+
+#: elementor/slider.php:341
+msgid "Animation"
+msgstr ""
+
+#: elementor/slider.php:420
+msgid "Slider fixed height"
+msgstr ""
+
+#: elementor/slider.php:434
+msgid "Height"
+msgstr ""
+
+#: elementor/slider.php:458
+msgid "Custom subtitle font size"
+msgstr ""
+
+#: elementor/slider.php:479
+msgid "Custom title font size"
+msgstr ""
+
+#: elementor/slider.php:501
+msgid "Colors"
+msgstr ""
+
+#: elementor/slider.php:509
+msgid "Color (dark)"
+msgstr ""
+
+#: elementor/slider.php:521
+msgid "Color (light)"
+msgstr ""
+
+#: elementor/slider.php:535
+msgid "Arrows Color"
+msgstr ""
+
+#: elementor/slider.php:548
+msgid "Navigation Dots Color"
+msgstr ""
+
+#: elementor/slider.php:562 elementor/video.php:135
+msgid "Button Color"
+msgstr ""
+
+#: elementor/social.php:23
+msgid "Social"
+msgstr ""
+
+#: elementor/social.php:56
+msgid "Social Media Links"
+msgstr ""
+
+#: elementor/social.php:64
+msgid "%s url"
+msgstr ""
+
+#: elementor/social.php:76
+msgid "Custom icon"
+msgstr ""
+
+#: elementor/social.php:93
+msgid "Custom url"
+msgstr ""
+
+#: elementor/social.php:114
+msgid "Icons Color"
+msgstr ""
+
+#: elementor/social.php:125
+msgid "Icons Color on Hover"
+msgstr ""
+
+#: elementor/social.php:136
+msgid "Icon size"
+msgstr ""
+
+#: elementor/tabs.php:45
+msgid "Luchiana Tabs"
+msgstr ""
+
+#: elementor/tabs.php:101
+msgid "Tabs"
+msgstr ""
+
+#: elementor/tabs.php:136
+msgid "Select a %s HTML block %s"
+msgstr ""
+
+#: elementor/team.php:46 elementor/team.php:103
+msgid "Team Members"
+msgstr ""
+
+#: elementor/team.php:112
+msgid "Choose Photo"
+msgstr ""
+
+#: elementor/team.php:127 ideapark-luchiana.php:291
+#: includes/class-ideapark-custom-fonts.php:35
+msgid "Name"
+msgstr ""
+
+#: elementor/team.php:129
+msgid "John Doe"
+msgstr ""
+
+#: elementor/team.php:130
+msgid "Enter Name"
+msgstr ""
+
+#: elementor/team.php:138
+msgid "Occupation"
+msgstr ""
+
+#: elementor/team.php:140 elementor/team.php:334 elementor/team.php:338
+#: elementor/team.php:342
+msgid "Manager"
+msgstr ""
+
+#: elementor/team.php:141
+msgid "Enter Occupation"
+msgstr ""
+
+#: elementor/team.php:151
+msgid "Enter Description"
+msgstr ""
+
+#: elementor/team.php:159
+msgid "Phone"
+msgstr ""
+
+#: elementor/team.php:161
+msgid "Enter Phone"
+msgstr ""
+
+#: elementor/team.php:169
+msgid "Email"
+msgstr ""
+
+#: elementor/team.php:171
+msgid "Enter Email"
+msgstr ""
+
+#: elementor/team.php:189
+msgid "Social links"
+msgstr ""
+
+#: elementor/team.php:198
+msgid "Facebook url"
+msgstr ""
+
+#: elementor/team.php:208
+msgid "Instagram url"
+msgstr ""
+
+#: elementor/team.php:218
+msgid "VK url"
+msgstr ""
+
+#: elementor/team.php:228
+msgid "OK url"
+msgstr ""
+
+#: elementor/team.php:238
+msgid "Telegram url"
+msgstr ""
+
+#: elementor/team.php:248
+msgid "Whatsapp url"
+msgstr ""
+
+#: elementor/team.php:258
+msgid "Twitter url"
+msgstr ""
+
+#: elementor/team.php:268
+msgid "YouTube url"
+msgstr ""
+
+#: elementor/team.php:278
+msgid "Vimeo url"
+msgstr ""
+
+#: elementor/team.php:288
+msgid "LinkedIn url"
+msgstr ""
+
+#: elementor/team.php:298
+msgid "Flickr url"
+msgstr ""
+
+#: elementor/team.php:308
+msgid "Tumblr url"
+msgstr ""
+
+#: elementor/team.php:318
+msgid "Github url"
+msgstr ""
+
+#: elementor/team.php:412
+msgid "Border color"
+msgstr ""
+
+#: elementor/video-carousel.php:50
+msgid "Product Videos"
+msgstr ""
+
+#: elementor/video-carousel.php:161
+msgid "Videos count"
+msgstr ""
+
+#: elementor/video-carousel.php:187
+msgid "Settings"
+msgstr ""
+
+#: elementor/video.php:46
+msgid "Video Button"
+msgstr ""
+
+#: elementor/video.php:105
+msgid "Video"
+msgstr ""
+
+#: elementor/video.php:112 ideapark-luchiana.php:183
+msgid "Video URL"
+msgstr ""
+
+#: elementor/video.php:113
+msgid "Link to Vimeo or YouTube video."
+msgstr ""
+
+#: elementor/video.php:118
+msgid "https://link-to-the-video.com"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:47 elementor/woocommerce-carousel.php:104
+msgid "Product Carousel"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:176
+msgid "Products in carousel"
+msgstr ""
+
+#: elementor/woocommerce-grid.php:47 elementor/woocommerce-grid.php:104
+msgid "Product Grid"
+msgstr ""
+
+#: elementor/woocommerce-grid.php:176
+msgid "Products in grid"
+msgstr ""
+
+#: elementor/wrapper-link-module.php:35
+msgid "Wrapper Link"
+msgstr ""
+
+#: elementor/wrapper-link-module.php:42
+msgid "Enable Link"
+msgstr ""
+
+#: elementor/wrapper-link-module.php:72
+msgid "Enable Open In New Window"
+msgstr ""
+
+#: ideapark-luchiana.php:28
+msgid ""
+"The Luchiana theme is not activated! This plugin works only with Luchiana "
+"theme"
+msgstr ""
+
+#: ideapark-luchiana.php:45
+msgid ""
+"The Luchiana theme version and the theme core plugin version must be the "
+"same. Please update the plugin to version %s"
+msgstr ""
+
+#: ideapark-luchiana.php:142
+msgid "HTML Blocks"
+msgstr ""
+
+#: ideapark-luchiana.php:143
+msgid "HTML Block"
+msgstr ""
+
+#: ideapark-luchiana.php:144
+msgid "Static HTML blocks for using in widgets and in templates"
+msgstr ""
+
+#: ideapark-luchiana.php:177
+msgid "Product Video"
+msgstr ""
+
+#: ideapark-luchiana.php:184
+msgid "Enter the url to product video (Youtube, Vimeo etc.)."
+msgstr ""
+
+#: ideapark-luchiana.php:189
+msgid "Video Thumbnail"
+msgstr ""
+
+#: ideapark-luchiana.php:191
+msgid "Leave blank to use the standard thumbnail from youtube."
+msgstr ""
+
+#: ideapark-luchiana.php:199
+msgid "Video (mp4, m4v, webm, ogv, flv) playback in the grid."
+msgstr ""
+
+#: ideapark-luchiana.php:218
+msgid "Youtube Video URL"
+msgstr ""
+
+#: ideapark-luchiana.php:270
+msgid "Feature"
+msgstr ""
+
+#: ideapark-luchiana.php:537
+msgid ""
+"You have not registered the theme yet! Please <a href=\"%1$s\">enter your "
+"purchase code</a> or <a href=\"%2$s\" target=\"_blank\">get a new license "
+"here</a>."
+msgstr ""
+
+#: ideapark-luchiana.php:709
+msgid "Share on Facebook"
+msgstr ""
+
+#: ideapark-luchiana.php:710
+msgid "Share on Twitter"
+msgstr ""
+
+#: ideapark-luchiana.php:711
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: ideapark-luchiana.php:712
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ideapark-luchiana.php:713
+msgid "Share on Whatsapp"
+msgstr ""
+
+#: ideapark-luchiana.php:714
+msgid "Share on Telegram"
+msgstr ""
+
+#: importer/data_1/home-3.php:24
+msgid "Wide"
+msgstr ""
+
+#: importer/data_1/home-4.php:48
+msgid "Branded"
+msgstr ""
+
+#: importer/data_1/home-5.php:46
+msgid "Organic"
+msgstr ""
+
+#: importer/data_1/home-6.php:22
+msgid "Salon"
+msgstr ""
+
+#: importer/data_1/home-8.php:26
+msgid "Natural"
+msgstr ""
+
+#: importer/importer.php:123
+msgid "Import Demo Content"
+msgstr ""
+
+#: importer/importer.php:138
+msgid "Please wait..."
+msgstr ""
+
+#: importer/importer.php:139
+msgid "Are you sure you want to import?"
+msgstr ""
+
+#: importer/importer.php:140
+msgid "Importing ..."
+msgstr ""
+
+#: importer/importer.php:141 importer/importer.php:279
+msgid "Progress"
+msgstr ""
+
+#: importer/importer.php:142
+msgid "Output Error"
+msgstr ""
+
+#: importer/importer.php:168 importer/importer.php:230
+msgid "One-Click Import Demo Content"
+msgstr ""
+
+#: importer/importer.php:234
+msgid "Select the demo site you want to import: "
+msgstr ""
+
+#: importer/importer.php:241
+msgid "Preview Demo"
+msgstr ""
+
+#: importer/importer.php:258
+msgid "Select the data you want to import: "
+msgstr ""
+
+#: importer/importer.php:260
+msgid "All data"
+msgstr ""
+
+#: importer/importer.php:263
+msgid "Fonts"
+msgstr ""
+
+#: importer/importer.php:266
+msgid "Slider Revolution"
+msgstr ""
+
+#: importer/importer.php:270
+msgid "Options"
+msgstr ""
+
+#: importer/importer.php:273
+msgid "Import attachments"
+msgstr ""
+
+#: importer/importer.php:278
+msgid "Import"
+msgstr ""
+
+#: importer/importer.php:279
+msgid "Prepare data..."
+msgstr ""
+
+#: importer/importer.php:282
+msgid "Continue"
+msgstr ""
+
+#: importer/importer.php:282
+msgid "Cancel"
+msgstr ""
+
+#: importer/importer.php:285
+msgid "Important notes:"
+msgstr ""
+
+#: importer/importer.php:286
+msgid ""
+"Please note that import process will take time needed to download all "
+"attachments from demo web site."
+msgstr ""
+
+#: importer/importer.php:287
+msgid ""
+"If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: importer/importer.php:288
+msgid ""
+"We recommend you to <a href=\"%s\" target=\"_blank\">reset data</a> & clean "
+"wp-content/uploads folder before import to prevent duplicate content."
+msgstr ""
+
+#: importer/importer.php:290
+msgid ""
+"Downloading remote files is prohibited in PHP (allow_url_fopen in php.ini)"
+msgstr ""
+
+#: importer/importer.php:292
+msgid ""
+"If you have problems importing images, then run a test to get information "
+"about the error"
+msgstr ""
+
+#: importer/importer.php:292
+msgid "download test"
+msgstr ""
+
+#: importer/importer.php:311
+msgid "Download test failed"
+msgstr ""
+
+#: importer/importer.php:313
+msgid "Download test completed successfully"
+msgstr ""
+
+#: importer/importer.php:319
+msgid "Available only to registered theme"
+msgstr ""
+
+#: importer/importer.php:320
+msgid "Register theme"
+msgstr ""
+
+#: importer/importer.php:324
+msgid "Export"
+msgstr ""
+
+#: importer/importer.php:327
+msgid "No themes data found."
+msgstr ""
+
+#: importer/importer.php:328
+msgid "Try adding this code to the beginning of the file wp-config.php:"
+msgstr ""
+
+#: importer/importer.php:361 importer/importer.php:1210
+#: importer/importer.php:1217
+msgid "Error: Permission denied"
+msgstr ""
+
+#: importer/importer.php:391
+msgid "Error: Can`t open file: "
+msgstr ""
+
+#: importer/importer.php:449 importer/importer.php:453
+#: importer/importer.php:489
+msgid "Error: Select the data you want to import"
+msgstr ""
+
+#: importer/importer.php:494
+msgid "Error: Selected data is empty"
+msgstr ""
+
+#: importer/importer.php:558
+msgid "Prepared data successfully"
+msgstr ""
+
+#: importer/importer.php:568
+msgid "Imported terms successfully"
+msgstr ""
+
+#: importer/importer.php:577
+msgid "Imported post data successfully"
+msgstr ""
+
+#: importer/importer.php:590
+msgid "Imported options successfully"
+msgstr ""
+
+#: importer/importer.php:599
+msgid "Imported fonts successfully"
+msgstr ""
+
+#: importer/importer.php:608
+msgid "Imported widgets successfully"
+msgstr ""
+
+#: importer/importer.php:633
+msgid ""
+"Cheers! The demo data has been imported successfully! Please reload this "
+"page to finish!"
+msgstr ""
+
+#: importer/importer.php:636
+msgid "Data import completed!"
+msgstr ""
+
+#: importer/importer.php:636
+msgid "Re-save the site permalinks! "
+msgstr ""
+
+#: importer/importer.php:643
+msgid "Error: step not found: "
+msgstr ""
+
+#: importer/importer.php:675 importer/importer.php:685
+msgid ""
+"Error: No access to data folder. Try to add line "
+"\"define('FS_METHOD','direct');\" to the file wp-config.php"
+msgstr ""
+
+#: importer/importer.php:677 importer/importer.php:687
+msgid "Error: Uploads folder must be writable - "
+msgstr ""
+
+#: importer/importer.php:854
+msgid "Error: file not found: "
+msgstr ""
+
+#: importer/importer.php:987
+msgid "Imported Slider Revolution successfully"
+msgstr ""
+
+#: importer/importer.php:991
+msgid "The plugin Slider Revolution is not installed"
+msgstr ""
+
+#: importer/importer.php:994
+msgid "There are no slides in this demo"
+msgstr ""
+
+#: importer/importer.php:1237
+msgid "The demo data has been exported successfully!"
+msgstr ""
+
+#: importer/parsers.php:43 importer/parsers.php:77 importer/parsers.php:85
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: importer/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: importer/parsers.php:89 importer/parsers.php:94 importer/parsers.php:312
+#: importer/parsers.php:499
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:36
+msgid "Importing media files"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:54
+msgid "Importing posts"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:67
+msgid "Importing nav menus"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:76
+msgid "Error importing the post #"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:112
+msgid "File content.xml not found"
+msgstr ""
+
+#: importer/wordpress-importer.php:135 importer/wordpress-importer.php:144
+#: importer/wordpress-importer.php:194 importer/wordpress-importer.php:199
+#: importer/wordpress-importer.php:209
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: importer/wordpress-importer.php:136
+msgid "The file %s does not exist, please try again."
+msgstr ""
+
+#: importer/wordpress-importer.php:179
+msgid "All done."
+msgstr ""
+
+#: importer/wordpress-importer.php:200
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: importer/wordpress-importer.php:218
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: importer/wordpress-importer.php:243
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: importer/wordpress-importer.php:270
+msgid "Assign Authors"
+msgstr ""
+
+#: importer/wordpress-importer.php:271
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: importer/wordpress-importer.php:273
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: importer/wordpress-importer.php:283
+msgid "Import Attachments"
+msgstr ""
+
+#: importer/wordpress-importer.php:286
+msgid "Download and import file attachments"
+msgstr ""
+
+#: importer/wordpress-importer.php:291
+msgid "Submit"
+msgstr ""
+
+#: importer/wordpress-importer.php:305
+msgid "Import author:"
+msgstr ""
+
+#: importer/wordpress-importer.php:319
+msgid "or create new user with login name:"
+msgstr ""
+
+#: importer/wordpress-importer.php:322
+msgid "as a new user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:330
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:332
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:337
+msgid "- Select -"
+msgstr ""
+
+#: importer/wordpress-importer.php:392
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: importer/wordpress-importer.php:451
+msgid "Failed to import category %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:501
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:565 importer/wordpress-importer.php:817
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:665
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:705 importer/wordpress-importer.php:949
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: importer/wordpress-importer.php:779
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: importer/wordpress-importer.php:1008
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: importer/wordpress-importer.php:1017
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1118
+msgid "Invalid file type"
+msgstr ""
+
+#: importer/wordpress-importer.php:1188
+msgid "Remote server did not respond"
+msgstr ""
+
+#: importer/wordpress-importer.php:1195
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1203
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: importer/wordpress-importer.php:1209
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: importer/wordpress-importer.php:1216
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1325
+msgid "Import WordPress"
+msgstr ""
+
+#: importer/wordpress-importer.php:1332
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: importer/wordpress-importer.php:1347
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: importer/wordpress-importer.php:1348
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:25
+msgid "Custom Fonts"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:40
+msgid "Font .woff2"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:45
+msgid "Font .woff"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:50
+msgid "Font .ttf"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:55
+msgid "Font .svg"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:60
+msgid "Font .otf"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:65
+msgid "Font Display"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:71
+msgid "Auto"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:72
+msgid "Block"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:73
+msgid "Swap"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:74
+msgid "Fallback"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:75
+msgid "Optional"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:93
+msgid "Add New"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:94
+#: includes/class-ideapark-taxonomy.php:93
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:95
+#: includes/class-ideapark-taxonomy.php:91
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:96
+#: includes/class-ideapark-taxonomy.php:94
+msgid "New %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:97
+#: includes/class-ideapark-taxonomy.php:87
+msgid "All %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:98
+#: includes/class-ideapark-taxonomy.php:88
+msgid "View %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:99
+#: includes/class-ideapark-taxonomy.php:86
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:100
+msgid "No %s Found"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:101
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:102
+#: includes/class-ideapark-taxonomy.php:89
+#: includes/class-ideapark-taxonomy.php:90
+msgid "Parent %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:146
+msgid "%1$s updated. %2$sView %3$s%4$s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:147
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:148
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:149
+msgid "%1$s updated."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:150
+msgid "%1$s restored to revision from %2$s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:151
+msgid "%1$s published. %2$sView %3$s%4s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:152
+msgid "%1$s saved."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:153
+msgid "%1$s submitted. %2$sPreview post%3$s%4$s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:154
+msgid "%1$s scheduled for: %2$s. %3$sPreview %4$s%5$s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:154
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:155
+msgid "%1$s draft updated. %2$sPreview %3$s%4$s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:172
+msgid "%1$s %2$s updated."
+msgid_plural "%1$s %3$s updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ideapark-post-type.php:173
+msgid "%1$s %2$s not updated, somebody is editing it."
+msgid_plural "%1$s %3$s not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ideapark-post-type.php:174
+msgid "%1$s %2$s permanently deleted."
+msgid_plural "%1$s %3$s permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ideapark-post-type.php:175
+msgid "%1$s %2$s moved to the Trash."
+msgid_plural "%1$s %3$s moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ideapark-post-type.php:176
+msgid "%1$s %2$s restored from the Trash."
+msgid_plural "%1$s %3$s restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ideapark-taxonomy.php:92
+msgid "Update %s"
+msgstr ""
+
+#: includes/class-ideapark.php:295
+msgid "Disable sortable"
+msgstr ""
+
+#: includes/mb-settings-page/src/BackupField.php:20
+msgid ""
+"To export settings, copy the content of this field and save to a file. To "
+"import settings, paste the content of the backup file here."
+msgstr ""
+
+#: includes/mb-settings-page/src/Factory.php:45
+msgid "Save Settings"
+msgstr ""
+
+#: includes/mb-settings-page/src/Factory.php:46
+msgid "Settings saved."
+msgstr ""
+
+#: includes/meta-box-group/group-field.php:63
+msgid "Are you sure you want to remove this group?"
+msgstr ""
+
+#: includes/meta-box-group/group-field.php:64
+msgid "On"
+msgstr ""
+
+#: includes/meta-box-group/group-field.php:65
+msgid "Off"
+msgstr ""
+
+#: includes/meta-box-group/group-field.php:145
+msgid "Remove"
+msgstr ""
+
+#: includes/meta-box-group/group-field.php:332
+msgid "Entry {#}"
+msgstr ""
+
+#: includes/meta-box-group/group-field.php:332
+msgid "Entry"
+msgstr ""
+
+#: includes/term-meta/class-mb-term-meta-box.php:90
+msgid "Term added."
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:76
+msgid "First you need to select the variation image above"
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:86
+msgid "Variation Image Gallery"
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:110
+msgid "Add Gallery Images"
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:182
+msgid "Variation Gallery"
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:281
+msgid "Not able to attach \"%s\"."
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:288
+msgid "Unable to use image \"%s\"."
+msgstr ""
+
+#: widgets/latest-posts-widget.php:8
+msgid "The recent posts with thumbnails"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:12
+msgid "Luchiana Latest Posts"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:83
+msgid "Latest Posts"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:90
+msgid "Title:"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:94
+msgid "Filter by Category:"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:96
+msgid "All categories"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:105
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:13
+msgid "Display a list of attributes to filter products in your store."
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:15
+msgid "Luchiana Filter by Attribute"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:48
+msgid ""
+"You need to activate and configure the \"Woocommerce\" and \"Variation "
+"Swatches for WooCommerce\" plugins"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:72
+msgid "Filter by"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:78
+msgid "Attribute"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:84
+msgid "Show product counts"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:89
+msgid "Query type"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:91
+msgid "AND"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:92
+msgid "OR"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:101
+msgid "Image size"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Luchiana Core"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Core plugin for Luchiana theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "parkofideas.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://parkofideas.com"
+msgstr ""

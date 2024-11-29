@@ -1,0 +1,82 @@
+.ideapark-hotspot {
+	display:         flex;
+	position:        fixed;
+	left:            0;
+	right:           0;
+	top:             0;
+	bottom:          0;
+	z-index:         9999;
+	background:      rgba(0, 0, 0, 0.8);
+	justify-content: center;
+	align-items:     center;
+}
+
+.ideapark-hotspot__wrap {
+	flex:       0 0 auto;
+	position:   relative;
+	background: #fff;
+	fill:       #000;
+	stroke:     #000;
+}
+
+.ideapark-hotspot__image {
+	display:    block;
+	width:      auto;
+	height:     auto;
+	max-height: 90vh;
+	max-width:  90vw;
+}
+
+.ideapark-hotspot__close {
+	font-size:   25px;
+	width:       25px;
+	height:      25px;
+	line-height: 1;
+	position:    absolute;
+	right:       -25px;
+	top:         -25px;
+	color:       white;
+	text-shadow: 0 0 2px 10px black;
+}
+
+
+.ideapark-hotspot__point {
+	color:           #000;
+	position:        absolute;
+	width:           18px;
+	height:          18px;
+	display:         flex;
+	justify-content: center;
+	align-items:     center;
+	z-index:         1;
+	margin-top:      -9px;
+	margin-left:     -9px;
+}
+
+.ideapark-hotspot__point a {
+	color: currentColor;
+}
+
+.ideapark-hotspot__point-edit {
+	color:                 #000;
+	background-color:      #fff;
+	line-height:           1px;
+	width:                 18px;
+	height:                18px;
+	font-size:             18px;
+}
+
+.ideapark-hotspot__point-close {
+	position:    absolute;
+	top:         -15px;
+	right:       -15px;
+	font-size:   20px;
+	line-height: 1;
+	text-shadow: 0 0 2px 10px white;
+	opacity:     0;
+	transition:  opacity 0.3s ease-out;
+}
+
+.ideapark-hotspot__point:hover .ideapark-hotspot__point-close {
+	opacity: 1;
+}
