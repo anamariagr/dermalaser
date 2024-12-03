@@ -1,0 +1,41 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.c-header__logo-img--svg {
+        width: 100%;
+        filter: brightness(0.10);
+    }
+.elementor-element.elementor-element-fb669cf.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded {
+    background: #ffffff;
+}
+.carousel {
+    background: white!important;
+	position: relative;
+    top: 2rem;
+	border-radius: 35px;
+}
+header.l-section.c-page-header.c-page-header--header-type-1.c-page-header--default.c-page-header--page.c-page-header--high.c-page-header--custom-bg {
+    box-shadow: inset -2px 20px 232px 110px #4048449c;
+}
+.rt-tpg-container .rt-grid-hover-item .rt-holder .grid-hover-content:after, .rt-tpg-container .rt-grid-hover-item .rt-holder .grid-hover-content:before{
+	background: rgb(0 0 0 / 22%)!important
+};
+body .elementor-3774 .elementor-element.elementor-element-37b10f8 .rt-tpg-container .tpg-post-holder .rt-detail .read-more a:hover {
+    border-color: #727272 !important;
+    color: #ffffff !important;
+    background: #5b7062 !important;
+}
+
+.grid_hover-layout11-main .rt-grid-hover-item .entry-title-wrapper .entry-title:hover, .rt-tpg-container .rt-grid-hover-item a:hover {
+    color: #6ab177;
+}
+header.c-page-header--post.c-page-header--custom-bg {
+      opacity: 73%;
+}
+
+aside#sidebar {
+    width: 315px !important;
+}
+img.attachment-full.size-full.wp-image-4179 {
+    filter: contrast(0.17);
+}</style>
+<!-- end Simple Custom CSS and JS -->

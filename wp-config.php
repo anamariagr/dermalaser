@@ -1,4 +1,5 @@
 <?php
+define( 'WP_CACHE', true );
 /**
  * The base configuration for WordPress
  *
@@ -26,7 +27,7 @@ define( 'DB_NAME', 'dermalaser' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '2bW60Ks8vkm@' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
