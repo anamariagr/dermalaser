@@ -27,7 +27,7 @@ define( 'DB_NAME', 'dermalaser' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '2bW60Ks8vkm@' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );

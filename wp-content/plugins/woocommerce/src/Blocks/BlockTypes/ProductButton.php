@@ -203,7 +203,7 @@ class ProductButton extends AbstractBlock {
 						{div_directives}
 					>
 						<{html_element}
-							href="{add_to_cart_url}"
+							href="https://dermalaser-co.myshopify.com/products/"
 							class="{button_classes}"
 							style="{button_styles}"
 							{attributes}

@@ -1203,17 +1203,32 @@ if ( ! function_exists( 'woocommerce_template_loop_category_title' ) ) {
 }
 
 if ( ! function_exists( 'woocommerce_template_loop_product_link_open' ) ) {
-	/**
-	 * Insert the opening anchor tag for products in the loop.
-	 */
-	function woocommerce_template_loop_product_link_open() {
-		global $product;
+    /**
+     * Insert the opening anchor tag for products in the loop.
+     */
+    function woocommerce_template_loop_product_link_open() {
+        global $product;
 
-		$link = apply_filters( 'woocommerce_loop_product_link', get_the_permalink(), $product );
+        // Obtener el permalink del producto
+        $permalink = get_the_permalink();
 
-		echo '<a href="' . esc_url( $link ) . '" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">';
-	}
+        // Extraer la ruta de la URL (la parte después del dominio)
+        $path = parse_url($permalink, PHP_URL_PATH);
+
+        // Remover '/shop' del path si existe
+        $clean_path = str_replace('/shop', '', $path);
+
+        // URL base de Shopify
+        $url_shophy = 'https://dermalaser-co.myshopify.com/products';
+
+        // Generar el enlace completo
+        $link = $url_shophy . $clean_path;
+
+        // Crear el enlace HTML
+        echo '<a href="' . esc_url( $link ) . '" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">';
+    }
 }
+
 
 if ( ! function_exists( 'woocommerce_template_loop_product_link_close' ) ) {
 	/**

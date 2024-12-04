@@ -899,16 +899,42 @@ if ( ! function_exists( 'ideapark_subcategory_archive_thumbnail_size' ) ) {
 }
 
 if ( ! function_exists( 'ideapark_loop_add_to_cart_link' ) ) {
-	function ideapark_loop_add_to_cart_link( $text, $product, $args ) {
-		$text = preg_replace( '~(<a[^>]+>)~ui', '\\1<span class="c-product-grid__atc-text">', $text );
-		$text = preg_replace( '~(</a>)~ui', '</span>' . '\\1', $text );
-		if ( $product->get_type() == 'simple' ) {
-			return preg_replace( '~(<a[^>]+>)~ui', '\\1<i class="ip-plus c-product-grid__atc-icon"></i>', $text );
-		} else {
-			return preg_replace( '~(</a>)~ui', '<i class="ip-button-more c-product-grid__atc-icon"></i>' . '\\1', $text );
-		}
-	}
+    function ideapark_loop_add_to_cart_link( $text, $product, $args ) {
+        // URL base de Shopify
+        $url_shophy = 'https://dermalaser-co.myshopify.com/products';
+
+        // Obtener el permalink del producto
+        $permalink = get_permalink( $product->get_id() );
+
+        // Extraer el slug del producto (última parte del permalink)
+        $path = parse_url( $permalink, PHP_URL_PATH ); // Obtiene la ruta completa
+        $product_slug = trim( basename( $path ) ); // Extrae solo el slug (nombre del producto)
+
+        // Construir la nueva URL
+        $new_url = $url_shophy . '/' . $product_slug;
+
+        // Reemplazar la URL en el atributo href del enlace
+        $text = preg_replace_callback( '~href="([^"]+)"~ui', function( $matches ) use ( $new_url ) {
+            return 'href="' . esc_url( $new_url ) . '"';
+        }, $text );
+
+        // Modificar el contenido del enlace para convertirlo en un botón
+        $text = preg_replace( '~(<a[^>]+>)~ui', '<button class="c-product-e" onclick="window.open(\'' . esc_url( $new_url ) . '\', \'_blank\')" class="c-product-grid__atc-button">', $text );
+        $text = preg_replace( '~(</a>)~ui', '</button>', $text );
+
+        // Agregar iconos según el tipo de producto
+        if ( $product->get_type() == 'simple' ) {
+            $text = preg_replace( '~(<button[^>]+>)~ui', '\\1<i class="ip-plus c-product-grid__atc-icon"></i>', $text );
+        } else {
+            $text = preg_replace( '~(</button>)~ui', '<i class="ip-button-more c-product-grid__atc-icon"></i>' . '\\1', $text );
+        }
+
+        return $text;
+    }
 }
+
+
+
 
 if ( ! function_exists( 'ideapark_woocommerce_gallery_image_size' ) ) {
 	function ideapark_woocommerce_gallery_image_size( $size ) {

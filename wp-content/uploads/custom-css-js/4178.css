@@ -2,8 +2,15 @@
 <style type="text/css">
 .c-header__logo-img--svg {
         width: 100%;
-        filter: brightness(0.10);
-    }
+       filter: brightness(8.1);
+}
+button.c-product-e {
+    background: black;
+    color: white;
+    padding: 12px;
+    border: 0px;
+    cursor: pointer;
+}
 .elementor-element.elementor-element-fb669cf.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded {
     background: #ffffff;
 }

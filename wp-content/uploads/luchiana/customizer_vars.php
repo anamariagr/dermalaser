@@ -1,5 +1,5 @@
 <?php
-$ideapark_customize_mods_ver = "d585cbe193da85140ceb09215e329687";
+$ideapark_customize_mods_ver = "d4dc9f73275b634ea8fe0937054b031a";
 global $ideapark_customize;
 $ideapark_customize = [
 "0" => [
@@ -258,11 +258,11 @@ $ideapark_customize = [
 "class" => "WP_Customize_Image_Radio_Control",
 "is_option" => true,
 "choices" => [
-"header-type-1" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/header-01.png",
-"header-type-2" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/header-02.png",
-"header-type-3" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/header-03.png",
-"header-type-4" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/header-04.png",
-"header-type-5" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/header-05.png",
+"header-type-1" => "http://localhost/wp-content/themes/luchiana/assets/img/header-01.png",
+"header-type-2" => "http://localhost/wp-content/themes/luchiana/assets/img/header-02.png",
+"header-type-3" => "http://localhost/wp-content/themes/luchiana/assets/img/header-03.png",
+"header-type-4" => "http://localhost/wp-content/themes/luchiana/assets/img/header-04.png",
+"header-type-5" => "http://localhost/wp-content/themes/luchiana/assets/img/header-05.png",
 ],
 ],
 "header_buttons" => [
@@ -327,7 +327,7 @@ $ideapark_customize = [
 ],
 "sticky_logo_desktop_size" => [
 "label" => "Logo width in sticky menu (Desktop)",
-"default" => 205,
+"default" => "193",
 "type" => "slider",
 "sanitize_callback" => "sanitize_text_field",
 "class" => "WP_Customize_Range_Control",
@@ -437,9 +437,9 @@ $ideapark_customize = [
 "class" => "WP_Customize_Image_Radio_Control",
 "is_option" => true,
 "choices" => [
-"blocks-center" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/blocks-center.png",
-"blocks-first" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/blocks-first.png",
-"blocks-last" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/blocks-last.png",
+"blocks-center" => "http://localhost/wp-content/themes/luchiana/assets/img/blocks-center.png",
+"blocks-first" => "http://localhost/wp-content/themes/luchiana/assets/img/blocks-first.png",
+"blocks-last" => "http://localhost/wp-content/themes/luchiana/assets/img/blocks-last.png",
 ],
 "dependency" => [
 "header_type" => [
@@ -664,8 +664,8 @@ $ideapark_customize = [
 "class" => "WP_Customize_Image_Radio_Control",
 "is_option" => true,
 "choices" => [
-"header-type-mobile-1" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/header-mobile-01.png",
-"header-type-mobile-2" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/header-mobile-02.png",
+"header-type-mobile-1" => "http://localhost/wp-content/themes/luchiana/assets/img/header-mobile-01.png",
+"header-type-mobile-2" => "http://localhost/wp-content/themes/luchiana/assets/img/header-mobile-02.png",
 ],
 ],
 "header_logo_centered_mobile" => [
@@ -844,7 +844,7 @@ $ideapark_customize = [
 "sanitize_callback" => "sanitize_text_field",
 ],
 "custom_header_icon_desc_0" => [
-"html" => "You can upload font with custom icons <a target=\"_blank\" href=\"http://35.172.137.183/wp-admin/themes.php?page=ideapark_fonts\" > here </a>",
+"html" => "You can upload font with custom icons <a target=\"_blank\" href=\"http://localhost/wp-admin/themes.php?page=ideapark_fonts\" > here </a>",
 "class" => "WP_Customize_HTML_Control",
 "sanitize_callback" => "sanitize_text_field",
 "dependency" => [
@@ -914,7 +914,7 @@ $ideapark_customize = [
 ],
 ],
 "custom_header_icon_desc" => [
-"html" => "You can upload font with custom icons <a target=\"_blank\" href=\"http://35.172.137.183/wp-admin/themes.php?page=ideapark_fonts\" > here </a>",
+"html" => "You can upload font with custom icons <a target=\"_blank\" href=\"http://localhost/wp-admin/themes.php?page=ideapark_fonts\" > here </a>",
 "class" => "WP_Customize_HTML_Control",
 "sanitize_callback" => "sanitize_text_field",
 "dependency" => [
@@ -1720,7 +1720,7 @@ $ideapark_customize = [
 ],
 ],
 "header_custom_fonts_reload" => [
-"html" => "<div class=\"ideapark-reload-block\"><button type=\"button\" data-href=\"http://35.172.137.183/wp-admin/customize.php?autofocus%5Bcontrol%5D=header_custom_fonts_info\" class=\"button-primary button ideapark-customizer-reload\">Reload</button>Reload the page to see the added custom fonts at the top of the font list above</div>",
+"html" => "<div class=\"ideapark-reload-block\"><button type=\"button\" data-href=\"http://localhost/wp-admin/customize.php?autofocus%5Bcontrol%5D=header_custom_fonts_info\" class=\"button-primary button ideapark-customizer-reload\">Reload</button>Reload the page to see the added custom fonts at the top of the font list above</div>",
 "class" => "WP_Customize_HTML_Control",
 "priority" => 100,
 "sanitize_callback" => "sanitize_text_field",
@@ -1983,8 +1983,8 @@ $ideapark_customize = [
 "class" => "WP_Customize_Image_Radio_Control",
 "is_option" => true,
 "choices" => [
-"cover" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/thumb-cover.png",
-"contain" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/thumb-contain.png",
+"cover" => "http://localhost/wp-content/themes/luchiana/assets/img/thumb-cover.png",
+"contain" => "http://localhost/wp-content/themes/luchiana/assets/img/thumb-contain.png",
 ],
 ],
 "grid_image_prop" => [
@@ -2010,8 +2010,8 @@ $ideapark_customize = [
 "class" => "WP_Customize_Image_Radio_Control",
 "is_option" => true,
 "choices" => [
-"cover" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/thumb-cover.png",
-"contain" => "http://35.172.137.183/wp-content/themes/luchiana/assets/img/thumb-contain.png",
+"cover" => "http://localhost/wp-content/themes/luchiana/assets/img/thumb-cover.png",
+"contain" => "http://localhost/wp-content/themes/luchiana/assets/img/thumb-contain.png",
 ],
 ],
 "product_image_prop" => [
@@ -2506,7 +2506,7 @@ $ideapark_customize = [
 "class" => "WP_Customize_Hidden_Control",
 ],
 "shop_is_not_configured" => [
-"label" => "Shop Page is not configured <a href=\"http://35.172.137.183/wp-admin/admin.php?page=wc-settings&#038;tab=products\">here</a>",
+"label" => "Shop Page is not configured <a href=\"http://localhost/wp-admin/admin.php?page=wc-settings&#038;tab=products\">here</a>",
 "class" => "WP_Customize_Warning_Control",
 "sanitize_callback" => "sanitize_text_field",
 "dependency" => [
@@ -3248,7 +3248,7 @@ $ideapark_customize = [
 ],
 ],
 "product_features_icon_desc" => [
-"html" => "You can upload font with custom icons <a target=\"_blank\" href=\"http://35.172.137.183/wp-admin/themes.php?page=ideapark_fonts\" > here </a>",
+"html" => "You can upload font with custom icons <a target=\"_blank\" href=\"http://localhost/wp-admin/themes.php?page=ideapark_fonts\" > here </a>",
 "class" => "WP_Customize_HTML_Control",
 "sanitize_callback" => "sanitize_text_field",
 "dependency" => [
@@ -3388,7 +3388,7 @@ $ideapark_customize_mods_def = [
 "header_buttons" => "search=1|auth=1|wishlist=1|cart=1|custom=0",
 "header_color_dark" => "#000000",
 "sticky_menu_desktop" => true,
-"sticky_logo_desktop_size" => 205,
+"sticky_logo_desktop_size" => "193",
 "sticky_menu_color" => "",
 "sticky_menu_bg_color" => "",
 "header_blocks_2" => "other=1|phone=1|email=1|address=1|hours=1|menu=0",
